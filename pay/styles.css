@@ -1,0 +1,115 @@
+
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+header {
+   border: solid black;
+   height: 42px; 
+   margin-top: 10px;
+   background-color: rgb(152, 185, 219);
+    
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+;
+}
+
+.nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.hero {
+    background-image: url('your-image.jpg');
+    background-size: cover;
+    text-align: center;
+    padding: 100px;
+    color: #fff;
+}
+
+.content {
+    padding: 20px;
+}
+
+footer {
+    background-color: rgb(6, 80, 154);
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    clear: both;
+}
+.fee{
+    color: black;
+    border: solid black;
+    border-radius: 50px;
+    width: 150px;
+    text-align: center;
+    border-width: 2px; margin-top: 10px;
+   background-color: rgb(6, 80, 154);
+;
+  
+}
+.wel{
+    color: black;
+    font-size: 50px;
+    margin-right: 100px;
+    color: rgb(6, 80, 154);
+    background-color: black;
+    -webkit-text-stroke: 1px white;
+    box-shadow: 0 0 60px blue;
+}
+.ser{
+    margin-left: 20px;
+    margin-bottom: 10px;
+
+}
+.left{
+    border:solid;
+    width: 160px;
+    background-color: rgb(105, 167, 230);
+    
+
+
+}
+.home{
+    border: solid black;
+    padding-bottom: 100;
+   background-color:rgb(6, 80, 154);
+   text-decoration-color: azure;
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+img{
+    border-radius: 50%;
+    float: left;
+    margin-top: 55px;
+    margin-left: 25px;
+    border:4px  solid rgb(7, 7, 7);
+    box-shadow: 0 0 60px blue;
+                
+}
+.instructions{
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.content{
+    float: left;
+}
+.line{
+    text-decoration: underline;
+}
